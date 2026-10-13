@@ -1,0 +1,9 @@
+# данные и артефакты запуска
+*.xlsx
+*.csv
+spark-warehouse/
+metastore_db/
+derby.log
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
